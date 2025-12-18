@@ -1,4 +1,4 @@
-# 🧵 Zig Fiber Library – Cooperative Coroutines
+#  Zig Fiber Library – Cooperative Coroutines
 
 **Module:** Advanced Systems Programming  
 **Assessment:** Task B – User-Level Fibers  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a **user-level fiber (co-routine) library implemented in Zig**, developed as part of **ASP Task B**.
 
@@ -24,7 +24,7 @@ The implementation follows the assignment specification exactly and is divided i
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand how fibers differ from OS threads
 - Implement manual context switching using Zig + assembly
@@ -35,7 +35,7 @@ The implementation follows the assignment specification exactly and is divided i
 
 ---
 
-## 🧠 Technical Background
+##  Technical Background
 
 ### What Are Fibers?
 
@@ -59,7 +59,7 @@ This model is ideal for understanding concurrency fundamentals.
 
 ---
 
-## 🗂 Repository Structure
+##  Repository Structure
 
 ```text
 .
