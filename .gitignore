@@ -1,0 +1,22 @@
+# ===== System =====
+System Volume Information/
+WindowsApps/
+$RECYCLE.BIN/
+
+# ===== Build files =====
+*.exe
+*.pdb
+*.o
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
+
+# ===== Zig =====
+zig-cache/
+zig-out/
+__pycache__/
